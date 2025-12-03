@@ -1,1 +1,1 @@
-# -chat-navigation.github.io
+# chat-navigation.github.io
